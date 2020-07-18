@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exemplo SQLite</string>
+    <string name="cadastrar_novo">Cadastrar novo</string>
+    <string name="salvar">Salvar</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="editar_cliente">Editar cliente</string>
+</resources>
